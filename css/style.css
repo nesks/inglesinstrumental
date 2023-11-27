@@ -406,7 +406,7 @@ h1, h2, h3, h5, h6, figure {
 }
 
 .gtco-cover {
-  height: 900px;
+  height: 400px;
   background-size: cover;
   background-repeat: no-repeat;
   position: relative;
@@ -434,19 +434,19 @@ h1, h2, h3, h5, h6, figure {
 }
 @media screen and (max-width: 768px) {
   .gtco-cover {
-    height: 600px;
+    height: 300px;
   }
 }
 .gtco-cover .display-t,
 .gtco-cover .display-tc {
-  height: 900px;
+  height: 400px;
   display: table;
   width: 100%;
 }
 @media screen and (max-width: 768px) {
   .gtco-cover .display-t,
   .gtco-cover .display-tc {
-    height: 600px;
+    height: 300px;
   }
 }
 .gtco-cover.gtco-cover-sm {
